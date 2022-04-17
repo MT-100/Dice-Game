@@ -1,0 +1,35 @@
+/* --------------------------------------------TAG SELECTORS------------------------------- */
+body {
+  background-color: #778899;
+}
+
+h1 {
+  font-family: 'Kanit', sans-serif;
+  font-size: 5rem;
+  text-align: center;
+}
+
+p {
+  font-family: 'Dancing Script', cursive;
+  font-size: 2rem;
+}
+
+footer {
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+}
+/* --------------------------------------------CLASS SELECTORS------------------------------- */
+.container {
+     text-align: center;
+     width: 80%;
+     margin: 30px auto;
+}
+
+.dice {
+  display: inline-block;
+  text-align: center;
+}
+
+.img {
+  width: 80%;
+}
